@@ -12,10 +12,11 @@ int main()
         }
         for(int k=0;k<7-2*i;k++) 
         {
-            printf("*");
+            printf("#");
         }
         printf("\n");
     }
     printf("Hello, world!\n");
+    printf("See some change?\n");
     printf("See some changes?\n");
 }

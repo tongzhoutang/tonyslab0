@@ -3,7 +3,7 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf(" ## ## \n");
+    printf(" ** ** \n");
     for(int i=0;i<4;i++)
     {
         for(int j=0;j<i;j++)
@@ -17,4 +17,5 @@ int main()
         printf("\n");
     }
     printf("Hello, world!\n");
+    printf("See some change?\n");
 }
